@@ -4,6 +4,8 @@ This repo is a clone of https://github.com/mjhea0/flaskr-tdd.
 
 # Add Test Cases to Group Project
 
+The following links to the test cases I added are all on branch lab6/dean of the group project as that is the branch where I added comments with my name to show which test functions I've written. The lab says to "add test cases' and it is expected that there is at least 1 unit test function written by me, so I've included links to all the test functions and not just the unit test functions.
+
 Unit Tests:
 - test_degree.py: 
 	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_degree.py#L1-L94
