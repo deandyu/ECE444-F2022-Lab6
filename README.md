@@ -2,6 +2,28 @@ Dean Yu
 
 This repo is a clone of https://github.com/mjhea0/flaskr-tdd.
 
+# Add Test Cases to Group Project
+
+Unit Tests:
+- test_degree.py: 
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_degree.py#L1-L94
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_degree.py#L179-L268
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_degree.py#L341-L385
+- test_student.py: 
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_student.py#L1-L172
+
+Integration Tests:
+- test_sv_api.py:
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_sv_api.py#L1-L269
+
+Frontend Tests:
+- test_sv_frontend.py:
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_sv_frontend.py#L1-L200
+- test_mc_frontend.py:
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_mc_frontend.py#L1-L124
+- test_course_frontend.py:
+	- https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-23-runtimeterror/blob/lab6/dean/Education_Pathways/tests/test_course_frontend.py#L1-L35
+
 # Pros and Cons of TDD
 
 Pros:
